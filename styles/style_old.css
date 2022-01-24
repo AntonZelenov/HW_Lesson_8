@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 0 15px;
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.logo {
+  display: inline-block;
+  float: left;
+  padding: 22px 320px 24px 0;
+}
+
+.nav {
+  width: 350px;
+  max-width: 100%;
+  float: left;
+  padding-top: 24px;
+  padding-bottom: 26px;
+  margin-right: 29px;
+}
+
+.nav-list {
+}
+
+.nav-item {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 28px;
+  padding-right: 30px;
+}
+
+.buttons {
+  float: left;
+  padding-top: 26px;
+  padding-bottom: 28px;
+}
+
+.sign {
+  display: inline;
+  border: 1px solid #bcd0e5;
+  max-width: 102px;
+  width: 100%;
+  text-align: center;
+  padding: 11px 25px;
+  margin-left: 14px;
+
+  border-radius: 4px;
+}
+
+.sign.in {
+  background-color: white;
+}
+
+.sign.up {
+  background-color: #ff9900;
+}
