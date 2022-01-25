@@ -199,13 +199,12 @@ hr {
   padding-bottom: 83px;
 }
 
-.footer-flex ul {
+.footer_list {
   margin: 0;
 }
 
 .sign_window {
   display: block;
-  margin-left: 80px;
   align-self: flex-end;
 }
 
@@ -217,7 +216,7 @@ hr {
   margin-left: 175px;
 }
 
-.btn-orange .sign_window {
+form {
 }
 
 /*.sign_area {
