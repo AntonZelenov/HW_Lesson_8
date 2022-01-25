@@ -181,11 +181,11 @@ h1 {
 
 /*footer*/
 
-.container .container_footer {
-  box-sizing: border-box;
-  border-top: black;
-  border-style: solid;
-  padding-top: 100px;
+hr {
+  border: none;
+  background-color: rgba(188, 208, 229, 0.496913);
+  height: 1px;
+  margin-bottom: 102px;
 }
 
 .logo-link {
